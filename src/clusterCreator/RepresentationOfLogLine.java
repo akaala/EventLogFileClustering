@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author DELL
+ * @author DELL Dell, What the hell! :D
  */
 public class RepresentationOfLogLine {
 
