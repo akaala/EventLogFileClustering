@@ -12,7 +12,9 @@ import java.util.logging.Logger;
 /**
  *
  * @author DELL Dell, What the hell! :D
- */
+ * but just now, name of author is changed :) 
+ * @author sanjaya. 
+*/
 public class RepresentationOfLogLine {
 
     int lengthOfBitSequenceForPosition = 7;
